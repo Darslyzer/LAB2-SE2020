@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e2cc88d125b5494489efa21a0274da4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainModel: {instanceID: 0}
+  - bulletPrefab: {fileID: 400000, guid: 94a7e05f13f842140b7134e454511ee4, type: 2}
+  - attackPoint: {instanceID: 0}
+  - movingAnimation: {fileID: 7400002, guid: 3bc1d080ec4b89d438f54247b0587415, type: 3}
+  - idleAnimation: {fileID: 7400002, guid: 3bc1d080ec4b89d438f54247b0587415, type: 3}
+  - attackAnimation: {instanceID: 0}
+  - hurtAnimation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
