@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6dc44a3cdf9aaef4f9c46b4ab2d86b29
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shooter: {instanceID: 0}
+  - Popup: {fileID: 400000, guid: 255df038fb26119499476f7fc488a8df, type: 2}
+  - hitEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

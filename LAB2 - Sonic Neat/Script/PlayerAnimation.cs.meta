@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 802c50257fff6874184000c4be3e5baa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - idle: {fileID: 7400002, guid: e226c4cc38e6ffb41a0cc6ede147f7b7, type: 3}
+  - run: {fileID: 7400004, guid: e226c4cc38e6ffb41a0cc6ede147f7b7, type: 3}
+  - jump: {fileID: 7400006, guid: e226c4cc38e6ffb41a0cc6ede147f7b7, type: 3}
+  - hurt: {fileID: 7400008, guid: e226c4cc38e6ffb41a0cc6ede147f7b7, type: 3}
+  - dash: {fileID: 7400010, guid: e226c4cc38e6ffb41a0cc6ede147f7b7, type: 3}
+  - wallSlide: {fileID: 7400026, guid: e226c4cc38e6ffb41a0cc6ede147f7b7, type: 3}
+  - wallKick: {fileID: 7400022, guid: e226c4cc38e6ffb41a0cc6ede147f7b7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

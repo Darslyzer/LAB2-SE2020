@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9a288414e2ca5a6458e582febb360210
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainModel: {instanceID: 0}
+  - attackPoint: {instanceID: 0}
+  - lowerAttackPoint: {instanceID: 0}
+  - onWallAttackPoint: {instanceID: 0}
+  - attackPrefab: {fileID: 400000, guid: 38e76a84b0018074cbb6c4231ffec0df, type: 2}
+  - jumpAttackPrefab: {fileID: 400000, guid: 38e76a84b0018074cbb6c4231ffec0df, type: 2}
+  - movingAttackAnimation: {instanceID: 0}
+  - jumpAttackAnimation: {instanceID: 0}
+  - dashAttackAnimation: {instanceID: 0}
+  - onWallAttackAnimation: {instanceID: 0}
+  - skillSelectIcon: {fileID: 2800000, guid: 31ff80f750a5f8e48925a21fa25635a7, type: 3}
+  - Maincam: {instanceID: 0}
+  - MaincamPrefab: {fileID: 100000, guid: 47c061b05b919d54ba0087b7b4e5bc4e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

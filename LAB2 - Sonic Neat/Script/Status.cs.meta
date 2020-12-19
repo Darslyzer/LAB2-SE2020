@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 560ab284bbc2fd84bbd8908f3c9d726e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainModel: {instanceID: 0}
+  - deathBody: {instanceID: 0}
+  - poisonEffect: {fileID: 100000, guid: a31353bb4fc8dd84ba3db5fc44f8b352, type: 2}
+  - silenceEffect: {fileID: 100002, guid: cc3b0ae00014504428ba698d71ca9212, type: 2}
+  - stunEffect: {fileID: 100002, guid: b8bc8a6245084414cb04b0f16b497ea5, type: 2}
+  - stunAnimation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
